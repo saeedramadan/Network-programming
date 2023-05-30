@@ -1,0 +1,6 @@
+Open the Start menu.
+Search for "Python" and select "Python" from the search results.
+This will open the Python interpreter in a command prompt window.
+Type the following command in the Python interpreter:
+import sys
+print(sys.executable)
